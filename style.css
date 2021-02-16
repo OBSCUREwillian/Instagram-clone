@@ -21,6 +21,10 @@ body{
 
 }
 
+a{
+    color: rgb(84, 92, 100);
+}
+
 
 main{
     display: flex;
@@ -41,6 +45,7 @@ article.phones-imgs{
     justify-content: center;
     width: 50%;
     min-height: 24rem;
+    position: relative;
 }
 
 
@@ -264,6 +269,7 @@ li a{
 
 
 
+
 /* FOLD */
 @media(max-width: 280px){
 
@@ -310,7 +316,11 @@ li a{
         min-width: 280px;
         height: 50vh;
     }
-    
+
+    input{
+        background-color: #ffffff;
+    }
+
 }
 
 
@@ -354,6 +364,9 @@ li a{
 
     div.links{
         width: 88%;  
+    }
+    input{
+        background-color: #ffffff;
     }
 
 
