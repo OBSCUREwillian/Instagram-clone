@@ -3,5 +3,5 @@
 Página feita com base na aula da Gabriela Pinheiro, na Digital Inoonvation One - "Recriando a página inicial do Instagram"
 <br>
 <br>
-<img src="./img/Gif definitivo.gif"></img>
+<img src="./img/gif.webm"></img>
 
